@@ -1,0 +1,41 @@
+[
+    {
+        "id": 1,
+        "name": "Midnight Centaur",
+        "image": "1.png",
+        "description": "A powerful centaur with dark horse features, clad in leather armor, standing in a misty moonlit forest.",
+        "appearance": {
+            "hair": "long, black",
+            "skin": "bronze",
+            "horseColor": "black",
+            "outfit": "leather armor with straps and buckles"
+        },
+        "setting": "dark forest, full moon, mist"
+    },
+    {
+        "id": 2,
+        "name": "Meadow Honey",
+        "image": "2.png",
+        "description": "A cheerful centaur with chestnut horse features, wearing a corset and off-shoulder blouse, standing in a sunny meadow.",
+        "appearance": {
+            "hair": "long, brown",
+            "skin": "fair",
+            "horseColor": "chestnut",
+            "outfit": "white blouse, brown corset"
+        },
+        "setting": "sunny meadow, blue sky, flowers"
+    },
+    {
+        "id": 3,
+        "name": "Spring Hottie",
+        "image": "3.png",
+        "description": "A friendly centaur with light brown horse features, dressed in a corset and blouse, posing in a flower-filled field.",
+        "appearance": {
+            "hair": "long, brown",
+            "skin": "fair",
+            "horseColor": "light brown",
+            "outfit": "white blouse, brown corset"
+        },
+        "setting": "meadow, blue sky, scattered flowers"
+    }
+]
