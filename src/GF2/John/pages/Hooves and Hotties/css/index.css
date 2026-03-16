@@ -1,5 +1,11 @@
+.hooves-and-hotties {
+    background-image: url('/data/title page.png');
+    background-size: cover;
+    background-position: center;
+}
+
 .box {
-    border: 100px black;
+    color: white;
 
 }
 

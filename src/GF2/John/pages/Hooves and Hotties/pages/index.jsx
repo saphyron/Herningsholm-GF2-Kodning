@@ -22,9 +22,15 @@ export default function HoovesAndHotties() {
     return (
         <PageShell>
             <div className="hooves-and-hotties">
+                <br></br>
                 <div className="box"><p>Velkommen til Hooves and Hotties Siden!</p></div>
                 <div className="box"><p>Hvis du vil se Hot Centaurs i action tryk herunder for at bekræfte du er over 18 år.</p></div>
                 <button className="confirm-btn" onClick={() => handleNavigation('/hooves-and-hotties/centaur-list')}>Bekræft du er over 18 år</button>
+                <br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br>
+                <br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br>
+                <br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br>
+                <br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br>
+                <br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br>
             </div>
         </PageShell>
     );
